@@ -43,7 +43,7 @@ Tenho interesse em transformar dados em insights e desenvolver projetos prático
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=MaiccGms8&show_icons=true&theme=transparent&hide_border=true&hide=grade" alt="Maicon's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MaiccGms8&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Maicon's GitHub stats" />
 </p>
 
 <p>
