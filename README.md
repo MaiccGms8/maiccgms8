@@ -1,93 +1,60 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maicongomes.maicongomes" />
+# Welcome, I'm Maicon
 
-  # 👋 Maicon Gomes | Data Science Student & Aspiring Data Analyst
+Sou estudante de **Ciência de Dados na Universidade Estadual da Paraíba (UEPB)**, com foco em **Análise de Dados, Python, SQL, Business Intelligence e Machine Learning**.
 
-  Transformando dados em insights estratégicos 📊
-</div>
+Tenho interesse em transformar dados em insights e desenvolver projetos práticos voltados para problemas reais.
 
----
+## About Me
 
-## 👨‍💻 Sobre mim
+- Estudante de Ciência de Dados na UEPB, com formação prevista para 2027.
+- Foco em Análise de Dados, Business Intelligence e Ciência de Dados.
+- Experiência acadêmica e prática com Python, SQL, Power BI, R e ferramentas de análise de dados.
+- Interesse em Machine Learning, Inteligência Artificial, automação e análise de negócios.
+- Buscando oportunidades para desenvolver minhas habilidades na área de dados.
 
-* 🎓 Graduando em **Ciência de Dados** na Universidade Estadual da Paraíba (UEPB)
-* 🎓 Bolsista pela **FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba**
-* 📊 Foco em **Análise de Dados, Estatística Aplicada e Machine Learning**
-* 🚀 Interesse em tecnologia, inovação e resolução de problemas com dados
+## Tech Stack
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
+</p>
 
-## 🎯 Objetivo
+**Dados:** Python, Pandas, NumPy, SQL, R, Excel, Power BI, Looker Studio  
+**Machine Learning:** Scikit-learn, NLP, MLflow  
+**Outros:** Git, GitHub, Streamlit, ETL
 
-**Busco oportunidades de estágio em Análise de Dados ou Ciência de Dados.** Tenho foco em aplicar Python, SQL e técnicas de visualização para otimizar processos, monitorar KPIs e apoiar a tomada de decisão baseada em dados.
+## Projects
 
----
+- **Olist RevOps Dashboard** — Análise de dados do e-commerce brasileiro da Olist, com foco em vendas, clientes, pagamentos, logística e indicadores de negócio.
+- **No-Show Prediction** — Projeto de Machine Learning para prever a probabilidade de ausência em agendamentos.
+- **Análise de E-commerce** — Análise exploratória de dados de e-commerce para identificar padrões, indicadores e oportunidades de negócio.
 
-## 🛠 Tech Stack
+## Currently Learning
 
-### 📊 Data & Analytics
-- **Linguagens:** Python (Pandas, NumPy, Scikit-Learn) e SQL
-- **Visualização:** Streamlit, Matplotlib e Seaborn
-- **Processos:** ETL, Modelagem de Dados, Análise Exploratória (EDA) e Storytelling
+- Análise de Dados e Business Intelligence.
+- Python e SQL para análise e tratamento de dados.
+- Machine Learning e Inteligência Artificial.
+- Estatística e métodos probabilísticos.
+- Desenvolvimento de dashboards e soluções analíticas.
 
-### 💻 Desenvolvimento
-- HTML, CSS, JavaScript
+## GitHub Stats
 
-### ⚙️ Ferramentas
-- Git & GitHub, VS Code, Jupyter Notebook
-- Experiência prática com ambiente Linux
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiccGms8&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Maicon" />
+</p>
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiccGms8&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Maicon" />
+</p>
 
-## 📈 Atualmente estudando
+## Connect With Me
 
-- Estatística aplicada a dados  
-- Análise Exploratória de Dados (EDA) 
-- Modelos de Machine Learning
-- Visualização de Dados
-
----
-
-## 📌 Projetos em Destaque
-
-### 🛒 [Análise de Performance E-Commerce](https://github.com/MaiccGms8/Analise_Ecommerce)
-Solução completa que automatiza a transição de relatórios estáticos para um pipeline dinâmico
-* **O que faz:** Processamento de dados brutos (ETL) para monitorar o faturamento (GMV) e a performance de mais de 600 parceiros
-* **Tecnologias:** Python, Pandas e **Streamlit** para o Dashboard interativo
-* **Impacto:** Permite uma visão ágil da eficácia de campanhas promocionais e comportamento de vendas
-
-### 🏥 [No-show Predictor](https://github.com/MaiccGms8/noshow-predictor)
-Sistema de Machine Learning desenvolvido para prever a probabilidade de absenteísmo em consultas médicas
-* **O que faz:** Analisa variáveis demográficas e de agendamento para identificar padrões de não comparecimento
-* **Tecnologias:** Python, Scikit-Learn (Classificação) e Análise Exploratória avançada
-* **Impacto:** Ferramenta estratégica para otimização de agendas e redução de custos operacionais em saúde
----
-
-## 📫 Contato
-
-<div align="center">
-  <a href='https://www.linkedin.com/in/maicon-henrique-gomes147/' target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+<p>
+  <a href="https://www.linkedin.com/in/maicon-henrique-gomes147/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maicon%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:maicon.henrique147@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-</div>
-
----
-
-# 🌎 English Version
-
-## 👋 Hello! I'm Maicon Gomes
-
-🎓 **Data Science Undergraduate Student** at UEPB 
-📊 **FAPESQ Research Fellow** & Hackathon Winner 
-🚀 Committed to transforming raw data into actionable business intelligence
-
-### 🎯 Career Goal
-Seeking **Internship roles in Data Analysis or Data Science**. Specialized in building end-to-end data pipelines and interactive dashboards to support strategic decisions
-
-### 📌 Key Projects
-* **E-commerce Performance Analysis:** An automated ETL and **Streamlit** dashboard to track GMV and performance for 600+ partners
-* **No-show Predictor:** A Machine Learning classifier built to predict and reduce medical appointment cancellations
+</p>
