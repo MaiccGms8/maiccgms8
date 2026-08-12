@@ -6,7 +6,6 @@ Tenho interesse em transformar dados em insights e desenvolver projetos prático
 
 ## About Me
 
-- Estudante de Ciência de Dados na UEPB, com formação prevista para 2027.
 - Foco em Análise de Dados, Business Intelligence e Ciência de Dados.
 - Experiência acadêmica e prática com Python, SQL, Power BI, R e ferramentas de análise de dados.
 - Interesse em Machine Learning, Inteligência Artificial, automação e análise de negócios.
@@ -44,11 +43,11 @@ Tenho interesse em transformar dados em insights e desenvolver projetos prático
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiccGms8&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Maicon" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MaiccGms8&show_icons=true&theme=transparent&hide_border=true" alt="Maicon's GitHub stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiccGms8&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Maicon" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaiccGms8&layout=compact&theme=transparent&hide_border=true" alt="Maicon's most used languages" />
 </p>
 
 ## Connect With Me
